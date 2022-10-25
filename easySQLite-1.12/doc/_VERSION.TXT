@@ -1,0 +1,16 @@
+11-05-2013
+* Version 1.12
+* add cmake project for cross platform
+
+11-05-2013
+* Version 1.11
+* Updating code for cross platform games written in Cocos2dx
+
+24-01-2013
+* Version 1.1
+* Adding iOS/OS X Support
+
+16-09-2010
+* version: 1.0
+* new release
+* SQLite engine version: 3.7.2
